@@ -8,7 +8,18 @@
 1- Creating visualizations using Matplotlib  
 2- Interpreting the results to understand the processes governing active layer dynamics, using ground-truth data  
 3- Generating models to predict ALT using SciPy and Scikit-learn
-### Data processing libraries such as:
+### Data processing libraries/modules such as:  
+*matplotlib*  
+*seaborn*  
+*shapely.geometry*  
+*folium*  
+*folium.plugins*
+*os*
+*glob8  
+*rioxarray*  
+*pyproj*  
+*esda.moran*  
+*libpysal.weights*
 *Pandas*  
 *NumPy*  
 *SciPy*  
